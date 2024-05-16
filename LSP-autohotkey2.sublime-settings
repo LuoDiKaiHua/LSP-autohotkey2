@@ -1,0 +1,12 @@
+{
+  "command": [
+    "node",
+    "${storage_path}/LSP-autohotkey2//server/dist/server.js",
+    "--stdio"
+  ],
+  "selector": "source.ahk2",
+  "initializationOptions": {
+    "InterpreterPath": "D:/Applications/AutoHotkey/v2/AutoHotkey64.exe"
+  },
+  "settings": {}
+}
